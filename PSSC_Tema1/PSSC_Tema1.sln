@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSSC_Tema1", "PSSC_Tema1\PSSC_Tema1.csproj", "{BF48F29E-F6D6-4E12-8D2A-428B3B6BD1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF48F29E-F6D6-4E12-8D2A-428B3B6BD1DA}.Debug|x86.ActiveCfg = Debug|x86
+		{BF48F29E-F6D6-4E12-8D2A-428B3B6BD1DA}.Debug|x86.Build.0 = Debug|x86
+		{BF48F29E-F6D6-4E12-8D2A-428B3B6BD1DA}.Release|x86.ActiveCfg = Release|x86
+		{BF48F29E-F6D6-4E12-8D2A-428B3B6BD1DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
